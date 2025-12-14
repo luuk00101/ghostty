@@ -1,7 +1,7 @@
 cursor-style=bar
 macos-titlebar-style = hidden
 
-theme=tokyonight
+theme=compline
 
 window-padding-x=10
 window-padding-y=15
