@@ -3,9 +3,6 @@ macos-titlebar-style = hidden
 
 theme=Tokyonight
 
-window-width = 9999
-window-height = 9999
-
 window-padding-x=10
 window-padding-y=15
 
